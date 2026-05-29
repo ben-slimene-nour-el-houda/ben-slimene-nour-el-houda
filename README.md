@@ -48,10 +48,10 @@ I build end-to-end AI solutions — from real-time streaming ingestion to multim
 | [**Tawhida**](#) | Multimodal breast cancer risk assessment (CDSS) using RAG + genetic/proteomic/image data | Qdrant · CLIP · BioBERT · FastAPI |
 | [**SmartOps**](#) | Real-time fraud detection with Kafka + Spark Structured Streaming | Kafka · PySpark · Spark MLlib · Docker |
 | [**MAAK**](#) | Voice-first accessibility app for Tunisian citizens with disabilities (Arabic/Darija/French) | Flutter · Gemini 1.5 · Tesseract · FastAPI |
-| [**Mahbouba**](#) | AI-powered MLOps platform for Tunisian women farmers — 1st place IEEE WIE | Whisper · Coqui TTS · Labess-7B · Azure |
+| [**Mahbouba**](#) | AI-powered MLOps platform for Tunisian women farmers | Whisper · Coqui TTS · Labess-7B · Azure |
 | [**WaterTN**](#) | AI water intelligence platform: leak detection + demand forecasting + crisis allocation | FastAPI · Azure IoT Hub · ARIMA · LSTM |
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ben-slimene-nour-el-houda&show_icons=true&hide_border=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=ben-slimene-nour-el-houda&show_icons=true&hide_border=true&theme=default" />
 </p>
