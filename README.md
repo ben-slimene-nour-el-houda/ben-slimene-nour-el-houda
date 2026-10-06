@@ -39,18 +39,12 @@ I am a passionate **DevOps, Cloud, and Systems Infrastructure Enthusiast** who l
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ben-slimene-nour-el-houda&theme=midnight-purpur&hide_border=true" width="97%" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ben-slimene-nour-el-houda)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ben-slimene-nour-el-houda)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nour.elhouda.benslimene@gmail.com)
 
 </div>
