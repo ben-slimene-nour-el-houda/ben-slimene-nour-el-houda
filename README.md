@@ -1,52 +1,62 @@
-<h1 align="center">Hi, I'm Nour El Houda 👋</h1>
+# Hi there, I'm Nour El Houda Ben Sliméne 👋
 
-<p align="center">
-  <b>Data & AI Engineering Student · RAG Developer </b><br/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/ben-slimene-nour-el-houda">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:benslimenenouralhouda@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![Cloud & DevOps](https://img.shields.io/badge/Focus-DevOps%20%7C%20Cloud%20%7C%20AI%20Infra-blueviolet?style=for-the-badge&logo=openstack)](https://github.com/ben-slimene-nour-el-houda)
+[![OpenStack](https://img.shields.io/badge/Platform-OpenStack-red?style=for-the-badge&logo=openstack)](https://www.openstack.org/)
+[![Go](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go)](https://go.dev/)
+[![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
+
+**Cloud & DevOps Engineer | Autonomous Systems & AI Infrastructure Architect**
+
+</div>
 
 ---
 
-## About me
+## 💡 About Me
 
-I'm a Data & AI Engineering student specializing in **RAG pipelines, MLOps, and distributed systems**.
-I build end-to-end AI solutions — from real-time streaming ingestion to multimodal LLM interfaces.
+I am a passionate **DevOps, Cloud, and Systems Infrastructure Enthusiast** who loves architecting high-availability cloud solutions, resilient networking layers, self-hosted AI automation, and real-time streaming data pipelines.
 
-- 🔬 **RAG Developer Intern** at Elite2Com — production LLM + enterprise software integration
-- 🌍 Building AI tools with real social impact (healthcare, agriculture, accessibility)
-
----
-
-## Tech stack
-
-**AI & ML**
-`RAG` `LLMs` `NLP` `Computer Vision` `MLOps` `LangChain` `BioBERT` `CLIP` `Whisper`
-
-**Data Engineering**
-`Apache Kafka` `Apache Spark` `PySpark` `ETL` `Qdrant` `SQL` `NoSQL` `Azure Synapse`
-
-**Infrastructure & DevOps**
-`Docker` `Docker Swarm` `GitHub Actions` `CI/CD` `Microsoft Azure` `Hadoop` `HDFS`
-
-**Development**
-`Python` `FastAPI` `Flutter` `Bash`
+- 🌐 **Cloud & Virtualization:** Deep experience with OpenStack, multi-tenant network partitioning, VRRP failover clusters, and IPAM lifecycle management.
+- 🛠️ **DevOps & IaC:** Automation driven with Pulumi (Go), Ansible, Docker, Kubernetes, HAProxy, and CI/CD pipelines.
+- 🧠 **Self-Hosted AI & RAG Infrastructure:** Building enterprise AI support engines using LangGraph, Qdrant vector DB, LiteLLM proxy, Ollama clusters, and zero-trust RBAC toolsets.
+- ⚡ **Real-Time Data Pipelines:** Designing high-velocity streaming architectures with Apache Kafka (KRaft), Apache Spark 4.1, and Spark MLlib algorithms.
+- 🔒 **Security & Resilience:** Expert in HMAC-SHA256 request signatures, anti-replay protections, zero-downtime configuration reloads with auto-rollback, and short-lived JWT authentication.
 
 ---
 
-## Featured projects
+## 🛠️ Tech Stack & Tooling
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Tawhida**](#) | Multimodal breast cancer risk assessment (CDSS) using RAG + genetic/proteomic/image data | Qdrant · CLIP · BioBERT · FastAPI |
-| [**SmartOps**](#) | Real-time fraud detection with Kafka + Spark Structured Streaming | Kafka · PySpark · Spark MLlib · Docker |
-| [**MAAK**](#) | Voice-first accessibility app for Tunisian citizens with disabilities (Arabic/Darija/French) | Flutter · Gemini 1.5 · Tesseract · FastAPI |
-| [**Mahbouba**](#) | AI-powered MLOps platform for Tunisian women farmers | Whisper · Coqui TTS · Labess-7B · Azure |
-| [**WaterTN**](#) | AI water intelligence platform: leak detection + demand forecasting + crisis allocation | FastAPI · Azure IoT Hub · ARIMA · LSTM |
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Cloud & Platforms** | ![OpenStack](https://img.shields.io/badge/OpenStack-ED1941?style=flat-square&logo=openstack&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **IaC & Automation** | ![Pulumi](https://img.shields.io/badge/Pulumi_Go-8A2BE2?style=flat-square&logo=pulumi&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| **Networking & High Availability** | ![HAProxy](https://img.shields.io/badge/HAProxy-000000?style=flat-square&logo=haproxy&logoColor=white) ![Keepalived/VRRP](https://img.shields.io/badge/VRRP-Keepalived-00599C?style=flat-square) ![Data Plane API](https://img.shields.io/badge/Data_Plane_API-5555-blue?style=flat-square) |
+| **AI, RAG & LLM Orchestration** | ![LangGraph](https://img.shields.io/badge/LangGraph-FF6F61?style=flat-square&logo=langchain&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=qdrant&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![LiteLLM](https://img.shields.io/badge/LiteLLM-Proxy-4B5563?style=flat-square) |
+| **Streaming & Data Intelligence** | ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-MLlib-3776AB?style=flat-square) |
+| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Databases & Cache** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ben-slimene-nour-el-houda&theme=midnight-purpur&hide_border=true" width="97%" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ben-slimene-nour-el-houda)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ben-slimene-nour-el-houda)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nour.elhouda.benslimene@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub><i>"Automating resilient infrastructure & building intelligent systems from the ground up."</i></sub>
+</div>
